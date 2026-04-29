@@ -1,0 +1,8 @@
+PING TEST:
+ping www.example.com
+Reply from 192.168.1.2
+
+NSLOOKUP TEST:
+nslookup www.example.com
+Server: 192.168.1.2
+Address: 192.168.1.2
